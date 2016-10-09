@@ -1,3 +1,64 @@
 body {
-  background-color: lightblue;
+  body{
+  	font-family: 'Product Sans', Arial, sans-serif;
+  }
+
+  input{
+  	font-family: 'Product Sans', Arial, sans-serif;
+  }
+
+  button{
+  	font-family: 'Product Sans', Arial, sans-serif;
+  }
+
+  .head_search{
+  	text-align: center;
+  	margin-bottom: 20px;
+  }
+
+  .titles{
+  	text-align: center;
+  	font-weight: 700;
+  }
+
+  h1{
+  	font-size: 50px;
+  }
+
+  h2{
+  	font-size: 35px;
+  }
+
+  h3{
+  	font-size: 20px;
+  }
+
+  .see_map{
+  	display: block;
+  	text-align: center;
+  }
+
+  .location_input{
+  	display: inline-block;
+  }
+
+  #banner_blog{
+  	text-align: center;
+  	color: white;
+  	background: rgb(30, 30, 30);
+  	right: 0px;
+  	left: 0px;
+  	padding: 25px;
+  }
+
+  .fa-chevron-circle-down{
+  	margin-top: 10px;
+  	font-size: 25px;
+  	color: #2ecc71;
+  }
+
+  .fa-heart{
+  	color: #e74c3c;
+  }
+
 }
